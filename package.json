@@ -1,0 +1,13 @@
+{
+  "name": "人生计时器",
+  "version": "1.0.0",
+  "private": true,
+  "main": "/src/index.jsx",
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-slider": "^1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
