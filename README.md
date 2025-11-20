@@ -1,2 +1,5 @@
 # lifetime
-做一个有用的人，能够把当下做好，不惧未来
+
+人生计时器工具。
+
+build with [weavefox](https://www.weavefox.cn/)
